@@ -1,4 +1,3 @@
-````markdown
 # 📘 SQL Tutorial Code Examples
 
 This repository provides concise SQL code snippets aligned with a full video tutorial.  
@@ -498,6 +497,3 @@ SELECT madlib.kmeans('sales_clean', 'clusters', 3, '{}');
 ```
 
 *Runs k-means clustering on sales\_clean using PostgreSQL MADlib.*
-
-```
-```
